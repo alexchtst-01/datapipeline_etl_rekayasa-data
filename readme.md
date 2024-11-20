@@ -48,7 +48,7 @@ Ikuti langkah-langkah berikut untuk menjalankan ETL data pipeline ini:
 **`disclaimer this used not working because of config airflow and .env`**
 
 ## Insight
-[streamlit](https://scratch-monitor-859.notion.site/ETL-Data-Pipeline-Universitas-Terbaik-di-Dunia-1437796d5dfb80f69aeedc5cb55ede19)
+[Streamlit ETL](https://dashboardinsightrekayasadata.streamlit.app)
 
 ## Model
 - **Polynomial or Linear regression**
