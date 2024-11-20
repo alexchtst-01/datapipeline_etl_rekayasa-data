@@ -34,7 +34,7 @@ Ikuti langkah-langkah berikut untuk menjalankan ETL data pipeline ini:
     
     source .venv/Script/activate
     
-    pip install -r regirements.txt
+    pip install -r requirements.txt
 
 3. **run web server**
     ```bash
