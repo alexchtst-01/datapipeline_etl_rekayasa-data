@@ -57,4 +57,6 @@ Ikuti langkah-langkah berikut untuk menjalankan ETL data pipeline ini:
 ## Notion Page
 [ETL Data Pipeline Universitas Terbaik Dunia](https://scratch-monitor-859.notion.site/ETL-Data-Pipeline-Universitas-Terbaik-di-Dunia-1437796d5dfb80f69aeedc5cb55ede19)
 
+## Video Presentasi
+[Video Presentasi ETL](https://drive.google.com/file/d/17Y_GBb2bv5EkBG5WipxE68QaVB1Iq71a/view?usp=sharing)
 
