@@ -45,7 +45,7 @@ Ikuti langkah-langkah berikut untuk menjalankan ETL data pipeline ini:
     ```bash
     AIRFLOW_HOME=/home/path-to-your-dir/datapipeline_etl_rekayasa/airflow airflow scheduler
 
-`**disclaimer this used not working**`
+**`disclaimer this used not working because of config airflow and .env`**
 
 ## Insight
 [streamlit](https://scratch-monitor-859.notion.site/ETL-Data-Pipeline-Universitas-Terbaik-di-Dunia-1437796d5dfb80f69aeedc5cb55ede19)
