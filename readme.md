@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk membangun **ETL (Extract, Transform, Load)** data pip
 |---------------------|-------------------|
 | Alex Cinatra | 22/505820/TK/55377 | 
 | Hafidh Husna | 22/498640/TK/54706 | 
-| Ryan Krishandi Lukito | 22/49729/TK/54488 | 
+| Ryan Krishandi Lukito | 22/497249/TK/54488 | 
 
 
 ## How to Run
